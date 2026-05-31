@@ -1,0 +1,76 @@
+# HR Analytics EDA Insights
+
+## Employee Attrition Insights
+
+* Majority of employees stayed in the company, while a smaller portion experienced attrition.
+* Employee attrition is one of the key business concerns identified in the dataset.
+* Attrition patterns suggest possible influence of workload, salary, and job satisfaction.
+
+---
+
+# Age Distribution Insights
+
+* Most employees belong to the age group of approximately 30–40 years.
+* Very few employees are above 50 years of age.
+* Workforce is dominated by mid-career professionals.
+
+---
+
+# Salary Insights
+
+* Monthly income distribution varies significantly among employees.
+* Some employees receive comparatively very high salaries while most fall within moderate income ranges.
+* Salary imbalance may influence employee retention and satisfaction.
+
+---
+
+# Department Insights
+
+* Research & Development department contains the highest number of employees.
+* Sales department also contributes a significant portion of the workforce.
+* Human Resources department has the smallest employee count.
+
+---
+
+# Gender Insights
+
+* Male employees are higher in number compared to female employees.
+* Gender distribution is not perfectly balanced across the organization.
+
+---
+
+# Overtime Insights
+
+* A considerable number of employees work overtime.
+* Employees working overtime show higher attrition patterns compared to employees without overtime.
+* Overtime may be a major factor affecting employee retention.
+
+---
+
+# Job Satisfaction Insights
+
+* Employee job satisfaction levels vary across the organization.
+* Moderate satisfaction levels appear more common than extremely high satisfaction.
+* Lower satisfaction may contribute to employee attrition.
+
+---
+
+# Attrition by Gender Insights
+
+* Attrition occurs across both male and female employees.
+* Male employees contribute a slightly higher attrition count due to larger workforce size.
+
+---
+
+# Attrition by Overtime Insights
+
+* Employees working overtime exhibit significantly higher attrition rates.
+* Work-life balance appears to impact employee retention strongly.
+
+---
+
+# Overall Business Insights
+
+* Employee attrition is influenced by multiple factors such as overtime, salary, job satisfaction, and department workload.
+* Workforce analysis highlights the importance of improving employee satisfaction and reducing overtime burden.
+* HR analytics dashboards can support strategic workforce planning and retention decision-making.

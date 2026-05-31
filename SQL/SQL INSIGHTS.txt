@@ -1,0 +1,63 @@
+1. Total Employees
+Company has around 1470 employees
+2. Attrition Analysis
+Around 237 employees left the company
+Around 1233 employees stayed
+Attrition rate is approximately 16%
+
+INSIGHT:
+
+Employee retention is good, but attrition still exists and needs analysis.
+3. Department Wise Employees
+Research & Development has highest employees
+Sales department is second highest
+Human Resources has lowest employees
+
+INSIGHT:
+
+Most workforce is concentrated in technical and sales departments.
+4. Average Salary
+Average monthly salary is around 6500
+
+INSIGHT:
+
+Salary distribution is moderate across employees.
+5. Overtime Analysis
+Employees doing overtime are more likely to leave the company
+
+INSIGHT:
+
+Overtime directly impacts employee attrition and work-life balance.
+6. Job Satisfaction
+Employees with low job satisfaction show higher attrition
+
+INSIGHT:
+
+Job satisfaction is a major factor affecting employee retention.
+7. Education Field Analysis
+Most employees belong to:
+Life Sciences
+Medical
+Marketing
+
+INSIGHT:
+
+Company workforce mainly comes from technical and management education backgrounds.
+8. Job Roles
+Sales Executive and Research Scientist are top job roles
+
+INSIGHT:
+
+Business operations heavily depend on sales and research teams.
+9. Work-Life Balance
+Employees with poor work-life balance tend to resign more frequently
+
+INSIGHT:
+
+Maintaining work-life balance is important for employee retention.
+10. Salary Insights
+Highest salary employee earns around 20K+ monthly income
+
+INSIGHT:
+
+There is a significant salary gap between highest and average paid employees.

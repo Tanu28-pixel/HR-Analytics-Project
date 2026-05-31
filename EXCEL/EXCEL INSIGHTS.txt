@@ -1,0 +1,21 @@
+Attrition by Department Insights
+Research & Development department records the highest employee attrition.
+Sales department also contributes significantly to workforce turnover.
+Human Resources department shows comparatively lower attrition levels.
+
+Attrition by Gender Insights
+Attrition occurs across both male and female employees.
+Male employees contribute slightly higher attrition counts due to larger workforce representation.
+
+Overtime Analysis Insights
+Employees working overtime demonstrate higher attrition trends.
+Work-life balance appears to strongly influence employee retention.
+
+Average Salary Insights
+Average monthly salary varies across departments.
+Certain departments show comparatively higher compensation levels than others.
+
+Overall Business Insights
+Employee attrition is influenced by multiple factors including overtime, department workload, and salary distribution.
+Workforce analysis highlights the importance of employee satisfaction and retention strategies.
+Dashboard visualizations support better HR decision-making and workforce planning.

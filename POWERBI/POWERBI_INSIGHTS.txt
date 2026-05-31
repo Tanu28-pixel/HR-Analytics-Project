@@ -1,0 +1,44 @@
+Employee Attrition Insights
+The organization records an overall employee attrition rate of approximately 16.12%.
+Employee attrition is one of the major workforce challenges identified through dashboard analysis.
+Attrition trends indicate strong influence from overtime, job satisfaction, and years at company.
+
+Department Insights
+Research & Development department shows the highest employee attrition among all departments.
+Sales department also contributes significantly to workforce turnover.
+Human Resources department contains the lowest employee count comparatively.
+
+Overtime Insights
+Employees working overtime demonstrate noticeably higher attrition trends.
+Work-life balance appears to play an important role in employee retention.
+Overtime analysis highlights potential workforce stress and workload imbalance.
+
+Job Satisfaction Insights
+Employee retention is strongly influenced by job satisfaction levels.
+Employees with lower satisfaction scores contribute more to attrition patterns.
+Moderate satisfaction levels are more common across the organization.
+
+Age Group Insights
+Majority of employees belong to the 26–35 years age group.
+Attrition is more common among younger and less experienced employees.
+Mid-career professionals form the largest portion of the workforce.
+
+Salary Insights
+Average salary differs across departments and job roles.
+Research & Development department records comparatively higher salary distribution.
+Salary variations may influence employee retention and satisfaction.
+
+Gender Insights
+Male employees contribute a slightly higher attrition count compared to female employees.
+Gender distribution across the organization is not completely balanced.
+Attrition patterns are observed across both genders.
+
+Attrition Trend Insights
+Employees with fewer years at company show higher turnover trends.
+Attrition decreases gradually with increasing employee experience.
+Workforce stability improves among long-term employees.
+
+Overall Business Insights
+Employee attrition is impacted by multiple factors including overtime, salary, satisfaction, and department workload.
+HR analytics dashboards help organizations identify workforce challenges and improve retention strategies.
+Business intelligence visualization supports better workforce planning and employee management decisions.
